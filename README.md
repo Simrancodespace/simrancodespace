@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Simran Singh 👋
 
-<!--
-**Simrancodespace/simrancodespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year B.Tech IT student at SIES University.
+💻 Currently learning Python, Java, and Data Structures & Algorithms.
+🌱 Building my programming skills through coding practice and beginner projects.
+🎯 Goal: Grow as a software developer and gain internship experience.
 
-Here are some ideas to get you started:
+## Skills
+- Python (Basics)
+- Java (Basics)
+- Data Structures & Algorithms (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Practising coding problems
+- Learning to build projects
+- Improving problem-solving skills
